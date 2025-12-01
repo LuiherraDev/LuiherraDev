@@ -1,9 +1,9 @@
-### Hi There, I'm Luis Hernández   <img width="40" height="40" align="center" alt="image" src="https://github.com/user-attachments/assets/d21a82db-ef6b-4f73-852e-7b14a7971af3" />
-<img align="right" alt="Luiherra-pic" height="250" style="border-radius:60px;" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5aGcwdnlnbm5ieG0ybnJnamtwOWhjenk0cG43NXdvM3YyMmJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif'/>
+### Hi There, I'm Luis Hernández   <img width="40" height="40" align="center" alt="image-Luis" src="https://github.com/user-attachments/assets/d21a82db-ef6b-4f73-852e-7b14a7971af3" />
+<img align="right" alt="develop-gif" height="250" style="border-radius:60px;" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo5aGcwdnlnbm5ieG0ybnJnamtwOWhjenk0cG43NXdvM3YyMmJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif'/>
 
-- <img width="30" height="30" align="center" alt="image" src="https://github.com/user-attachments/assets/e0055518-85b1-4531-8db6-d72767a1ba6a" /> Full Stack Web Developer
-- <img width="20" height="20" align="center" alt="image" src="https://github.com/user-attachments/assets/74e74821-6ea3-4ba0-be56-3f55c8c1ca0b" />   Always learning and ready to take on new challenges 
-- <img width="20" height="20" align="center" alt="image" src="https://github.com/user-attachments/assets/0cc5931c-119d-44ce-b7fb-27f303c23b24"  />   You can contact me by e-mail: luiherra25@gmail.com
+- <img width="30" height="30" align="center" alt="image-pc" src="https://github.com/user-attachments/assets/e0055518-85b1-4531-8db6-d72767a1ba6a" /> Full Stack Web Developer
+- <img width="20" height="20" align="center" alt="image-rocket" src="https://github.com/user-attachments/assets/74e74821-6ea3-4ba0-be56-3f55c8c1ca0b" />   Always learning and ready to take on new challenges 
+- <img width="20" height="20" align="center" alt="image-mail" src="https://github.com/user-attachments/assets/0cc5931c-119d-44ce-b7fb-27f303c23b24"  />   You can contact me by e-mail: luiherra25@gmail.com
 
 
 
@@ -25,8 +25,8 @@
                        
 ##
   <div style="display: inline_block">
-    <a align="left" href = "mailto:luiherra25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a align="left" href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a align="left" href = "mailto:luiherra25@gmail.com"><img alt="Luiherra-mail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a align="left" href="https://www.linkedin.com/" target="_blank"><img alt="Luiherra-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=LuiherraDev " alt="LuiherraDev" /> </p>
     <a align="center" href="https://github.com/LuiherraDev">
   </div>
